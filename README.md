@@ -3,7 +3,7 @@ Posters presented at conferences and symposiums, where I was first or second co-
 
 ## 2019
 "Single-cell analysis of human iPSCs and neural lineage entry to discover novel marker genes through a consensus pseudotime trajectory"
-Claire Malley, Pei-Hsuan Chu, Christopher P. Austin, Anton Simeonov, Ilyas Singeç
+Claire Malley, Pei-Hsuan Chu, Christopher P. Austin, Anton Simeonov, Ilyas Singeç.
 Presented at the International Society for Stem Cell Research conference, July 26, 2019.
 
 ## 2018
